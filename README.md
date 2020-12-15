@@ -13,5 +13,5 @@
 ![tweetscollect](https://user-images.githubusercontent.com/66451325/102276023-881f6c80-3f26-11eb-892e-fbc10c94aed9.gif)
 
 # <br> Tweets cleaning</br>
-# <br> Nlpk for cleaning</br>
-# <br> classification des ataweets avec Kmeans</br>
+# <br> NLPK pour cleaning</br>
+# <br> classification des Tweets avec Kmeans</br>
