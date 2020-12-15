@@ -1,4 +1,4 @@
-# <br color="blue">Projet data maining</br>
+# <br color="red">Projet data maining</br>
 # <br>Objectifs :</br>
 <br>• Maitriser l’API de twitter pour l’extraction des tweets</br>
 <br>• Maitriser la partie NLP (natural language processing) avec NLTK en Python</br>
