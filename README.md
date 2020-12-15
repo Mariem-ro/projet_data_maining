@@ -10,7 +10,7 @@
 <br>Reference :http://docs.tweepy.org/en/latest/</br>
 <br>Reference :http://docs.tweepy.org/en/latest/streaming_how_to.html</br>
 
-![tweetscollect](https://user-images.githubusercontent.com/66451325/102276023-881f6c80-3f26-11eb-892e-fbc10c94aed9.gif|width=100)
+![tweetscollect](https://user-images.githubusercontent.com/66451325/102276023-881f6c80-3f26-11eb-892e-fbc10c94aed9.gif| width=100)
 
 # <br> Tweets cleaning</br>
  <br> Dans cette étape, l’objectif est d’éliminer le texte inutile des tweets tels que les #, les noms des
