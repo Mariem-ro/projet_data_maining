@@ -1,8 +1,8 @@
 #!/usr/bin/python
 import tweepy
 import csv #Import csv
-auth = tweepy.auth.OAuthHandler('4CeiBlbUxiJ4Y8lAtulJ70ubG', 'M9tE6Dsx64M7CgW6rUSyPafCBXga7ys2qTjlndzzPUyJxGJ7NW')
-auth.set_access_token('1335880208864473090-AajfwSraulNljrKxo4aLkFjVwd2FRD', 'rYpcm6k9mGakaHKOZWrkLhIj8MFiRW5ywJX1jtcvkLqHf')
+auth = tweepy.auth.OAuthHandler('customer_key', 'customer_secret')
+auth.set_access_token('access_token', 'access_token_secret')
 
 api = tweepy.API(auth)
 
