@@ -5,4 +5,4 @@
 <br>• Appliquer les principes de nettoyage des données</br>
 <br>• Classer les tweets : regrouper ensemble les tweets qui sont similaires. C’est une étape qui peut
 être considérée comme une étape </br>
-#<br> extraction des tweets par tweepy</br>
+# <br> extraction des tweets par tweepy</br>
