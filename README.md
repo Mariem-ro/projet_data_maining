@@ -6,3 +6,6 @@
 <br>• Classer les tweets : regrouper ensemble les tweets qui sont similaires. C’est une étape qui peut
 être considérée comme une étape </br>
 # <br> Extraction des tweets par tweepy</br>
+<br>Reference :http://docs.tweepy.org/en/latest/api.html</br>
+<br>Reference :http://docs.tweepy.org/en/latest/</br>
+<br>Reference :http://docs.tweepy.org/en/latest/streaming_how_to.html</br>
