@@ -15,4 +15,4 @@
 # <br> Tweets cleaning</br>
 # <br> NLPK pour cleaning</br>
 # <br> classification des Tweets avec Kmeans</br>
-# <br>Try it on binder: https://mybinder.org/v2/gh/Mariem-ro/projet_data_maining/main</br>
+Try it on binder: https://mybinder.org/v2/gh/Mariem-ro/projet_data_maining/main
