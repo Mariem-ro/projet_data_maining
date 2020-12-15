@@ -1,4 +1,4 @@
-# projet data maining
+# Projet data maining
 # <br>Objectifs :</br>
 <br>• Maitriser l’API de twitter pour l’extraction des tweets</br>
 <br>• Maitriser la partie NLP (natural language processing) avec NLTK en Python</br>
