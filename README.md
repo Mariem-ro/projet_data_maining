@@ -9,3 +9,5 @@
 <br>Reference :http://docs.tweepy.org/en/latest/api.html</br>
 <br>Reference :http://docs.tweepy.org/en/latest/</br>
 <br>Reference :http://docs.tweepy.org/en/latest/streaming_how_to.html</br>
+
+![tweetscollect](https://user-images.githubusercontent.com/66451325/102276023-881f6c80-3f26-11eb-892e-fbc10c94aed9.gif)
