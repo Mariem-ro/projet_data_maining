@@ -22,4 +22,4 @@ LanguageProcessing). La bibliothèque à utiliser est NLTK en Python</br>
 <br>Etant donné un ensemble de tweets, l’objectif est de les résumer sous formes de groupes de sorte à
 ce que les Tweets qui sont dans le même groupe soient similaires. Ainsi, l’utilisateur pourra par la
 suite lire juste un Tweet de chaque groupe (le Tweet qui est le centroïde de groupes)</br>
-essayez on binder : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Mariem-ro/projet_data_maining/main)
+<br>essayez on binder : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Mariem-ro/projet_data_maining/main)</br>
