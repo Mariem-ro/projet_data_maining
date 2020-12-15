@@ -1,0 +1,9 @@
+nltk==3.5
+matplotlib.cm==3.2.2
+sys==3.8.3 
+numpy==1.18.5
+matplotlib==3.2.2
+pandas==1.0.5
+watermark==2.0.2
+seaborn==0.10.1
+re==2.2.1
