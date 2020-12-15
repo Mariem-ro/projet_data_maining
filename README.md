@@ -3,8 +3,7 @@
 <br>• Maitriser l’API de twitter pour l’extraction des tweets</br>
 <br>• Maitriser la partie NLP (natural language processing) avec NLTK en Python</br>
 <br>• Appliquer les principes de nettoyage des données</br>
-<br>• Classer les tweets : regrouper ensemble les tweets qui sont similaires. C’est une étape qui peut
-être considérée comme une étape </br>
+<br>• Classer les tweets : regrouper ensemble des tweets qui sont similaires. </br>
 # <br> Extraction des tweets par tweepy</br>
 <br> Nous avons utulisé la bibliothéque tweety pour collect de 10000 tweets pour cela nous avons faire recours à la méthode api.search.Twitter donne la permission pour l'exploitation de son API a travers l'inscription au "twitter developer" pour avoir des clés a travers lesquelles on peut accées a l'API</br>
 <br>![key](https://user-images.githubusercontent.com/66451325/102282770-6677b280-3f31-11eb-98bf-b64b956108a0.jpg)</br>
