@@ -29,6 +29,9 @@ ce que les Tweets qui sont dans le même groupe soient similaires. Ainsi, l’ut
 suite lire juste un Tweet de chaque groupe (le Tweet qui est le centroïde de groupes)</br>
 <br>Clustering K-Means</br>
 <br>Le clustering K-Means est un type d'algorithmes d'apprentissage non supervisé, qui crée des groupes en fonction de la distance entre les points. </br>
+<br>distance de jaccard</br>
+<br>est le rapport entre la cardinalité (la taille) de l'intersection des ensembles reconnus et la cardinalité de l'union des ensembles. Il permet d'évaluer la similarité entre les ensembles. Soit deux ensembles A et B, l'indice est :</br>
+<br>![Captur](https://user-images.githubusercontent.com/66451325/102324143-af575780-3f81-11eb-8a43-51ca05949fd8.PNG)</br>
 <br>Comment? Il existe deux concepts de distance dans le clustering K-Means.</br> 
 <br>Dans les sommes des carrés en grappes (WSS) et entre les sommes des carrés en grappes (BSS).</br>
 ![kmeans](https://user-images.githubusercontent.com/66451325/102290626-b3638500-3f41-11eb-9796-aec4db36d542.PNG)
