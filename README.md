@@ -18,9 +18,11 @@
  <br> Dans cette étape, l’objectif est d’éliminer le texte inutile des tweets tels que les #, les noms des
 utilisateurs, les url, …</br>
  <br>pour cette etape nous avons avons definir des fonctions pour prétraitement des tweets  </br>
-# <br> NLPK pour cleaning</br>
+# <br> NLTK pour cleaning et feature engeneering</br>
  <br> On doit procéder à l’analyse du tweet en respectant les différentes étapes du NLP (Natural
 LanguageProcessing). La bibliothèque à utiliser est NLTK en Python</br>
+<br>Pepline Nltk</BR>
+<br>![Feature](https://user-images.githubusercontent.com/66451325/102291449-6f717f80-3f43-11eb-88fd-de9e250563db.png)</br>
 # <br> classification des Tweets avec Kmeans</br>
 <br>Etant donné un ensemble de tweets, l’objectif est de les résumer sous formes de groupes de sorte à
 ce que les Tweets qui sont dans le même groupe soient similaires. Ainsi, l’utilisateur pourra par la
