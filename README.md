@@ -29,8 +29,8 @@ suite lire juste un Tweet de chaque groupe (le Tweet qui est le centroïde de gr
 <br>Le clustering K-Means est un type d'algorithmes d'apprentissage non supervisé, qui crée des groupes en fonction de la distance entre les points. </br>
 <br>Comment? Il existe deux concepts de distance dans le clustering K-Means.</br> 
 <br>Dans les sommes des carrés en grappes (WSS) et entre les sommes des carrés en grappes (BSS).</br>
-![KMean](https://user-images.githubusercontent.com/66451325/102290622-b2325800-3f41-11eb-9aba-c6d54b3b0bb2.PNG)
-<br>Somme des carrés du cluster WSS signifie la somme des distances entre les points et les centroïdes correspondants pour chaque cluster et BSS signifie la somme des distances entre les centroïdes et la moyenne totale de l'échantillon multipliée par le nombre de points dans chaque cluster. Vous pouvez donc considérer WSS comme la mesure de la compacité et BSS comme la mesure de la séparation.</br>
 ![kmeans](https://user-images.githubusercontent.com/66451325/102290626-b3638500-3f41-11eb-9796-aec4db36d542.PNG)
+<br>Somme des carrés du cluster WSS signifie la somme des distances entre les points et les centroïdes correspondants pour chaque cluster et BSS signifie la somme des distances entre les centroïdes et la moyenne totale de l'échantillon multipliée par le nombre de points dans chaque cluster. Vous pouvez donc considérer WSS comme la mesure de la compacité et BSS comme la mesure de la séparation.</br>
+![KMean](https://user-images.githubusercontent.com/66451325/102290622-b2325800-3f41-11eb-9aba-c6d54b3b0bb2.PNG)
 <br>Pour que le clustering réussisse, nous devons obtenir le WSS inférieur et le BSS supérieur.</br>
 <br>essayez on binder : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Mariem-ro/projet_data_maining/main)</br>
